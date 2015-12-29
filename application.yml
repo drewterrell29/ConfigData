@@ -1,4 +1,4 @@
-words: fail, fail
+words: fail,fail
 eureka:
   client:
     serviceUrl:
